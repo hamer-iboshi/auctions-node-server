@@ -1,2 +1,2 @@
-# node-timer
-node server with socket io for timer application, didactic purposes
+# auction-node-server
+node aplication server-side with socket io for real-time web application, the Auction.
